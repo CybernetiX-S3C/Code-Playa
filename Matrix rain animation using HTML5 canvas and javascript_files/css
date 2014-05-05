@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Crete Round';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Crete Round Italic'), local('CreteRound-Italic'), url(http://themes.googleusercontent.com/static/fonts/creteround/v3/5xAt7XK2vkUdjhGtt98undkZXW4sYc4BjuAIFc1SXII.woff) format('woff');
+}
